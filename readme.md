@@ -22,7 +22,7 @@ r - rate of interest ( eg 0.069 for 6.9% )
 t - tenure in months ( 360 )
 is_prepayment - Whether pre-payment is planned ( True of False )
 prepayment_month - Starting month from which pre-payment is planned
-prepayment_amount - Monthly prepayment amout
+prepayment_amount - Monthly prepayment amount
 
 Outputs - 
 
